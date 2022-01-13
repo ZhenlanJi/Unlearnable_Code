@@ -1,6 +1,6 @@
 # Unlearnable_Code
 
-This repository belongs to our publication:
+This repository belongs to our submitted manuscript:
 > Unlearnable Examples: Protecting Open-Source Software from Unauthorized Neural Code Learning
 
 You can find the code for our paper in this repository.
