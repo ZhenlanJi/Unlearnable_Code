@@ -14,6 +14,10 @@ In summary, we make the following contributions:
 * Technically, we propose a set of lightweight transformations to transform software in a semantics- and readability-preserving manner. The optimal transformation sequence toward a program is determined using multi-armed bandits.
 * We demonstrate empirically that transformed programs effectively mislead unauthorized neural code autocompletion with negligible cost.
 
+
+## Example
+You can find a working example comparing code completion results between models trained on the original program and the transformed program in example.pdf.
+
 ## Dependency
 
 ```
