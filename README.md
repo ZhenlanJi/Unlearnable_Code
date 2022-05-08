@@ -1,6 +1,6 @@
 # Unlearnable_Code
 
-This repository belongs to our submitted manuscript:
+This repository belongs to our SEKE 2022 publication:
 > Unlearnable Examples: Protecting Open-Source Software from Unauthorized Neural Code Learning
 
 You can find the code for our paper in this repository.
